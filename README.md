@@ -34,6 +34,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [About The Project](#about-the-project)
+- [Quick Links](#quick-links)
 - [Features](#features)
 - [Hardware Requirements](#hardware-requirements)
   - [Hardware used for Development and Testing](#hardware-used-for-development-and-testing)
@@ -60,6 +61,13 @@ The Original Literature Can be found here: [AlexNet Paper](https://papers.nips.c
 
 Paper Explained Here: [ImageNet Classification with Deep Convolutional Neural Networks - YouTube](https://youtu.be/Nq3auVtvd9Q)
 
+## Quick Links
+
+- The Original Literature Can be found here: [AlexNet Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+- Paper Explained Here: [ImageNet Classification with Deep Convolutional Neural Networks - YouTube](https://youtu.be/Nq3auVtvd9Q)
+- Data Loader: [GitHub](https://github.com/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Data_Loader.ipynb) | [nbViewer](https://nbviewer.jupyter.org/github/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Data_Loader.ipynb)
+- Model Architecture: [GitHub](https://github.com/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Prototype_Model.ipynb) | [nbViewer](https://nbviewer.jupyter.org/github/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Prototype_Model.ipynb)
+- Model Trainer: [GitHub](https://github.com/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Trainer.ipynb) | [nbViewer](https://nbviewer.jupyter.org/github/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Trainer.ipynb)
 ## Features
 
 - **Tf.Data** - Optimized Tensorflow Data Pipelining using Tf.Data and Tensorflow Datasets
