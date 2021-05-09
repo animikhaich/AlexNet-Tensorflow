@@ -17,11 +17,11 @@
     <br />
     <a href="https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf">Paper Link</a>
     ·
-    <a href="https://nbviewer.jupyter.org/github/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Prototype_Model.ipynb">Architecture</a>
+    <a href="https://nbviewer.jupyter.org/github/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Prototype_Model.ipynb">Architecture</a>
     ·
-    <a href="https://nbviewer.jupyter.org/github/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Data_Loader.ipynb">Data Loader</a>
+    <a href="https://nbviewer.jupyter.org/github/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Data_Loader.ipynb">Data Loader</a>
     ·
-    <a href="https://nbviewer.jupyter.org/github/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Trainer.ipynb">Model Trainer</a>
+    <a href="https://nbviewer.jupyter.org/github/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Trainer.ipynb">Model Trainer</a>
   </p>
 </p>
 <br>
@@ -65,9 +65,9 @@ Paper Explained Here: [ImageNet Classification with Deep Convolutional Neural Ne
 
 - The Original Literature Can be found here: [AlexNet Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 - Paper Explained Here: [ImageNet Classification with Deep Convolutional Neural Networks - YouTube](https://youtu.be/Nq3auVtvd9Q)
-- Data Loader: [GitHub](https://github.com/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Data_Loader.ipynb) | [nbViewer](https://nbviewer.jupyter.org/github/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Data_Loader.ipynb)
-- Model Architecture: [GitHub](https://github.com/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Prototype_Model.ipynb) | [nbViewer](https://nbviewer.jupyter.org/github/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Prototype_Model.ipynb)
-- Model Trainer: [GitHub](https://github.com/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Trainer.ipynb) | [nbViewer](https://nbviewer.jupyter.org/github/animikhaich/alexnet-tensorflow/blob/main/AlexNet_Trainer.ipynb)
+- Data Loader: [GitHub](https://github.com/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Data_Loader.ipynb) | [nbViewer](https://nbviewer.jupyter.org/github/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Data_Loader.ipynb)
+- Model Architecture: [GitHub](https://github.com/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Prototype_Model.ipynb) | [nbViewer](https://nbviewer.jupyter.org/github/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Prototype_Model.ipynb)
+- Model Trainer: [GitHub](https://github.com/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Trainer.ipynb) | [nbViewer](https://nbviewer.jupyter.org/github/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Trainer.ipynb)
 ## Features
 
 - **Tf.Data** - Optimized Tensorflow Data Pipelining using Tf.Data and Tensorflow Datasets
@@ -168,15 +168,15 @@ Distributed under the [GNU AGPL V3 License](https://choosealicense.com/licenses/
 - Twitter: [@AichAnimikh](https://twitter.com/AichAnimikh)
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/animikhaich/alexnet-tensorflow.svg?style=flat-square
-[contributors-url]: https://github.com/animikhaich/alexnet-tensorflow/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/animikhaich/alexnet-tensorflow.svg?style=flat-square
-[forks-url]: https://github.com/animikhaich/alexnet-tensorflow/network/members
-[stars-shield]: https://img.shields.io/github/stars/animikhaich/alexnet-tensorflow.svg?style=flat-square
-[stars-url]: https://github.com/animikhaich/alexnet-tensorflow/stargazers
-[issues-shield]: https://img.shields.io/github/issues/animikhaich/alexnet-tensorflow.svg?style=flat-square
-[issues-url]: https://github.com/animikhaich/alexnet-tensorflow/issues
-[license-shield]: https://img.shields.io/github/license/animikhaich/alexnet-tensorflow.svg?style=flat-square
-[license-url]: https://github.com/animikhaich/alexnet-tensorflow/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/animikhaich/AlexNet-Tensorflow.svg?style=flat-square
+[contributors-url]: https://github.com/animikhaich/AlexNet-Tensorflow/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/animikhaich/AlexNet-Tensorflow.svg?style=flat-square
+[forks-url]: https://github.com/animikhaich/AlexNet-Tensorflow/network/members
+[stars-shield]: https://img.shields.io/github/stars/animikhaich/AlexNet-Tensorflow.svg?style=flat-square
+[stars-url]: https://github.com/animikhaich/AlexNet-Tensorflow/stargazers
+[issues-shield]: https://img.shields.io/github/issues/animikhaich/AlexNet-Tensorflow.svg?style=flat-square
+[issues-url]: https://github.com/animikhaich/AlexNet-Tensorflow/issues
+[license-shield]: https://img.shields.io/github/license/animikhaich/AlexNet-Tensorflow.svg?style=flat-square
+[license-url]: https://github.com/animikhaich/AlexNet-Tensorflow/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/animikh-aich/
