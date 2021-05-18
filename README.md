@@ -32,22 +32,20 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [About The Project](#about-the-project)
-- [Quick Links](#quick-links)
-- [Features](#features)
-- [Hardware Requirements](#hardware-requirements)
-  - [Hardware used for Development and Testing](#hardware-used-for-development-and-testing)
-  - [Minimum Hardware Requirements](#minimum-hardware-requirements)
-- [Dataset Download & Setup](#dataset-download--setup)
-  - [Dataset Download](#dataset-download)
-  - [Raw/Source Dataset Directory Structure](#rawsource-dataset-directory-structure)
-  - [Processed/Destination Dataset Directory Structure](#processeddestination-dataset-directory-structure)
-- [References](#references)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-    - [Animikh Aich](#animikh-aich)
+- [](#)
+  - [Features](#features)
+  - [Hardware Requirements](#hardware-requirements)
+    - [Hardware used for Development and Testing](#hardware-used-for-development-and-testing)
+    - [Minimum Hardware Requirements](#minimum-hardware-requirements)
+  - [Dataset Download & Setup](#dataset-download--setup)
+    - [Dataset Download](#dataset-download)
+    - [Raw/Source Dataset Directory Structure](#rawsource-dataset-directory-structure)
+    - [Processed/Destination Dataset Directory Structure](#processeddestination-dataset-directory-structure)
+  - [References](#references)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
+      - [Animikh Aich](#animikh-aich)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -68,6 +66,25 @@ Paper Explained Here: [ImageNet Classification with Deep Convolutional Neural Ne
 - Data Loader: [GitHub](https://github.com/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Data_Loader.ipynb) | [nbViewer](https://nbviewer.jupyter.org/github/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Data_Loader.ipynb)
 - Model Architecture: [GitHub](https://github.com/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Prototype_Model.ipynb) | [nbViewer](https://nbviewer.jupyter.org/github/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Prototype_Model.ipynb)
 - Model Trainer: [GitHub](https://github.com/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Trainer.ipynb) | [nbViewer](https://nbviewer.jupyter.org/github/animikhaich/AlexNet-Tensorflow/blob/main/AlexNet_Trainer.ipynb)
+- Trained Weights: [Epoch 35, Categorical Accuracy 0.48](https://github.com/animikhaich/AlexNet-Tensorflow/blob/main/weights/alexnet.35-0.48-2.42.h5)
+
+
+## Training/Validation Resources
+
+### Trained Weights
+
+The final Trained Weights after automatic early stopping can be found here: [Epoch 35, Categorical Accuracy 0.48](https://github.com/animikhaich/AlexNet-Tensorflow/blob/main/weights/alexnet.35-0.48-2.42.h5)
+
+
+### Legend
+
+- Orange = Training Curves
+- Blue = Validation Curves
+### Training Curves
+![Training Curves](assets/trainin-curves.png)
+
+
+
 ## Features
 
 - **Tf.Data** - Optimized Tensorflow Data Pipelining using Tf.Data and Tensorflow Datasets
